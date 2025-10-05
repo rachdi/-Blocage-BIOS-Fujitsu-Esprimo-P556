@@ -1,6 +1,7 @@
 # 🚨 Blocage BIOS Fujitsu Esprimo P556 : la solution signée RBFIBRE Toulouse
 
-![Ordinateur Fujitsu bloqué au démarrage](https://qg-numerique.fr/wp-content/uploads/2024/07/fujitsu-bios-bloque.jpg)
+![PC-Fujitsu-ESPRIMO-P556](https://github.com/user-attachments/assets/33e57afa-989b-414d-88f1-abfa4d8cdaf3)
+
 
 ## 🔧 Introduction
 
@@ -18,7 +19,8 @@ Un problème fréquent depuis la mise à jour Windows KB5060533 — et bonne nou
 - Windows ne se charge plus  
 - Parfois, le clavier ou la souris ne sont même plus reconnus  
 
-![Symptômes blocage BIOS Fujitsu](https://qg-numerique.fr/wp-content/uploads/2024/07/fujitsu-esprimo-p556-bios.jpg)
+
+![blocage-bios-fujitsu-768x488](https://github.com/user-attachments/assets/0d7b78d1-2ab4-4351-a543-9fb675d699b4)
 
 ---
 
@@ -54,7 +56,8 @@ Voici la méthode que nous avons appliquée avec succès :
 5. Allumez le PC : la restauration démarre automatiquement.  
 6. Après 1 à 2 minutes, replacez le cavalier à sa position d’origine et redémarrez.
 
-![Restauration BIOS Fujitsu](https://qg-numerique.fr/wp-content/uploads/2024/07/fujitsu-bios-recovery.jpg)
+
+![Vue-carte-mere-Fujitsu-Esprimo-P556-768x580](https://github.com/user-attachments/assets/6b61df89-73d9-4133-a69a-054ec031af5d)
 
 ---
 
